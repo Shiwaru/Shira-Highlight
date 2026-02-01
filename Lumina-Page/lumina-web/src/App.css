@@ -1,0 +1,108 @@
+:root {
+  --bg-dark: #0a0a0f;
+  --accent-violet: #8e44ad;
+  --accent-blue: #3498db;
+  --text-main: #ffffff;
+  --text-dim: #b3b3b3;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-dark);
+  color: var(--text-main);
+  font-family: 'Inter', system-ui, sans-serif;
+  overflow-x: hidden;
+}
+
+.main-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 10%;
+  align-items: center;
+}
+
+.logo {
+  font-weight: 800;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+  color: var(--accent-violet);
+  text-shadow: 0 0 10px rgba(142, 68, 173, 0.5);
+}
+
+.links a {
+  color: var(--text-dim);
+  text-decoration: none;
+  margin-left: 2rem;
+  transition: color 0.3s;
+}
+
+.links a:hover {
+  color: var(--accent-blue);
+}
+
+.hero {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 10%;
+  z-index: 2;
+}
+
+.title {
+  font-size: 4rem;
+  margin-bottom: 0.5rem;
+  background: linear-gradient(to right, #fff, var(--accent-violet));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: var(--text-dim);
+  max-width: 600px;
+  margin: 0 auto 2rem;
+}
+
+.version {
+  color: var(--accent-blue);
+  font-weight: bold;
+}
+
+.btn-primary {
+  padding: 1rem 2.5rem;
+  background: linear-gradient(45deg, var(--accent-violet), var(--accent-blue));
+  border: none;
+  border-radius: 50px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 4px 15px rgba(142, 68, 173, 0.4);
+}
+
+.btn-primary:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(142, 68, 173, 0.6);
+}
+
+/* El toque de Shaii: Un aura mística al fondo */
+.shaii-bg-effect {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, rgba(142, 68, 173, 0.15) 0%, transparent 70%);
+  z-index: 1;
+  pointer-events: none;
+}
