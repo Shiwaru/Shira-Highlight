@@ -27,7 +27,7 @@ Skins Globales en Local: Carga automática de skins premium basadas en el Nick, 
 
 # 5 - Funciones que TODOS ODIAMOS en los launchers y creo que harán mejor mejorarlas porque los que jugamos Java, LAS ODIAMOS, PERO QUEDÓ CLARO QUE LAS ODIAMOS?
 
-Auto-Cerrar Launcher: Una opción por defecto encendida para cerrar el launcher completamente después de abrir completamente Minecraft Java, sin mas, sin cosas raras ni que el launcher quede consumiendo recursos de fondo mientras el juego esté abierto, nada de eso, que basura que eso pase en todos los launchers.
+Auto-Cerrar Launcher: Una opción por defecto encendida para cerrar el launcher completamente después de abrir completamente Minecraft Java, sin mas, sin cosas raras ni que el launcher quede consumiendo recursos de fondo mientras el juego esté abierto, qué basura que eso pase en todos los launchers.
 
 Implementar Skins: Lograr implementar skins sin que sea SkinsRich mod, y que se logre de forma nativa en el launcher - Pero que no sea como el de TLauncher que es una completa cagada porque en los servidores no ves las skins reales del resto y ni podés apagarlo cuando lo intentás, un bodrio.
 
