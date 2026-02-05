@@ -38,7 +38,7 @@ Y esto fué todo amiguitos, no me odien ❤️
 <img src="https://pbs.twimg.com/ext_tw_video_thumb/1777719263647698944/pu/img/ImENApb2inD9ZltY.jpg"></img>
 
 Bienvenidos a Shira-Highlight, la versión "Nightly" de mi launcher y un intento por hacer el mundo mejor.
-Este es mi serie de retos a los que quiero llegar a completar sin mas, tengan un pésimo día y acuérdensen de que fumar hace mal.
+Esta es mi serie de retos a los que quiero llegar a completar sin mas, tengan un pésimo día y acuérdensen de que fumar hace mal.
 
 
 
