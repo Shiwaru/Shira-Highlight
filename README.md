@@ -19,6 +19,7 @@ Soporte OpenJ9: Implementación de lógica para ajustar los argumentos de lanzam
 Cifrado DPAPI (Prioridad Alta): Uso de la API de Windows para cifrar tokens de cuentas Premium. Los datos solo podrán ser descifrados en la PC que se crearon, protegiendo contra robo de cuentas en caso de un ataque por malware o virus.
 
 Con el cifrado DPAPI viene obviamente:
+
 Dualidad de Cuentas: Soporte para Premium y No Premium con lógica separada para los parámetros de lanzamiento (evitando el uso de parámetros no premium para cuentas reales)
 
 # 4 - Experiencia de Usuario
