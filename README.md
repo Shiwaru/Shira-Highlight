@@ -42,6 +42,11 @@ Bienvenidos a Shira-Highlight, la versión "Nightly" de mi launcher y un intento
 Esta es mi serie de retos a los que quiero llegar a completar sin mas, tengan un pésimo día y acuérdensen de que fumar hace mal.
 
 
+Cosas que he pensado de la nada:
+
+- Animar el chat al aparecer un nuevo mensaje
+- Hacer mas lejana la cámara en F5
+- ¿Sistema de cambio de cuentas dentro del juego?
 
 Cositas que me han dicho:
 
