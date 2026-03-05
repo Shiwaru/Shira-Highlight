@@ -3,6 +3,7 @@ Gestión de JVM independiente: Descarga automática de Java necesario (Java 8, 1
 Resolucion de errores de caché (Pendiente subir revisión)
 Compatibilidad Fabric (Pendiente subir revisión)
 Revamp Estético (Pendiente subir revisión)
+Intro de Mojang (Pendiente subir revisión)
 
 # - Planes para Shira Launcher -
 # 1 - Sistema de Versiones y Modloaders
@@ -15,25 +16,31 @@ Gestor de Modpacks - Capacidad de interpretar archivos de CurseForge/Modrinth pa
 # 2 - Rendimiento y Optimización Extrema
 ***(EN PROGRESO)*** ShiraMAX - Optimización de Minecraft para maximizar FPS (SIN MODLOADERS). 
 
-Soporte OpenJ9: Implementación de lógica para ajustar los argumentos de lanzamiento específicos para OpenJ9 ya que Adoptium admite argumentos que OpenJ9 no.
+Soporte OpenJ9 - Implementación de lógica para ajustar los argumentos de lanzamiento específicos para OpenJ9 ya que Adoptium admite argumentos que OpenJ9 no.
+
+Soporte OpenGL Mesa - Implementación para poder usar CPU como gráfica si no hay gráficos integrados (O si son muy malos)
 
 # 3 - Seguridad y Cuentas
-Cifrado DPAPI (Prioridad Alta): Uso de la API de Windows para cifrar tokens de cuentas Premium. Los datos solo podrán ser descifrados en la PC que se crearon, protegiendo contra robo de cuentas en caso de un ataque por malware o virus.
+***(Prioridad Alta)*** Cifrado DPAPI - Uso de la API de Windows para cifrar tokens de cuentas Premium. Los datos solo podrán ser descifrados en la PC que se crearon, protegiendo contra robo de cuentas en caso de un ataque por malware o virus.
 
 Con el cifrado DPAPI viene obviamente:
 
-Dualidad de Cuentas: Soporte para Premium y No Premium con lógica separada para los parámetros de lanzamiento (evitando el uso de parámetros no premium para cuentas reales)
+Dualidad de Cuentas - Soporte para Premium y No Premium con lógica separada para los parámetros de lanzamiento (evitando el uso de parámetros no premium para cuentas reales)
 
 # 4 - Experiencia de Usuario
-Skins Globales en Local: Carga automática de skins premium basadas en el Nick, incluso en mundos Offline o redes LAN. (Pendiente modificación para SkinsRich - Veré que hago)
+***(REEMPLAZADO)*** Skins Globales en Local - Carga automática de skins premium basadas en el Nick, incluso en mundos Offline o redes LAN. (Pendiente modificación para SkinsRich - Veré que hago)
+
+***(EN PROGRESO)*** Sistema de Skins - Integración de API MineSkin para uso de skins globales, poder ver tu skin, ver skins reales de otros en servidores y que te vean con la skin que te ves tu mismo. Básicamente el sistema de skins de TLauncher pero pudiendo ver y que te vean con skins REALES.
 
 # 5 - Funciones que TODOS ODIAMOS en los launchers y creo que harán mejor mejorarlas porque los que jugamos Java, LAS ODIAMOS, PERO QUEDÓ CLARO QUE TODOS LAS ODIAMOS?
 
 Auto-Cerrar Launcher: Una opción por defecto encendida para cerrar el launcher completamente después de abrir completamente Minecraft Java, sin mas, sin cosas raras ni que el launcher quede consumiendo recursos de fondo mientras el juego esté abierto, qué basura que eso pase en todos los launchers.
 
-Implementar Skins: Lograr implementar skins sin que sea SkinsRich mod, y que se logre de forma nativa en el launcher - Pero que no sea como el de TLauncher que es una completa cagada porque en los servidores no ves las skins reales del resto y ni podés apagarlo cuando lo intentás, un bodrio.
+***(REEMPLAZADO)*** Implementar Skins - Lograr implementar skins sin que sea SkinsRich mod, y que se logre de forma nativa en el launcher - Pero que no sea como el de TLauncher que es una completa cagada porque en los servidores no ves las skins reales del resto y ni podés apagarlo cuando lo intentás, un bodrio.
 
-NO CREAR CARPETAS DE MAS: Eso, nada de crear carpetas que NO TENGAN que ver con el directorio interno donde esté mi launcher y en su carpeta "ShiraData", que bodrio eso que hacen otros launchers. También hacen que el sistema de carpetas interno sea un CAOS, UN INFIERNO LITERALMENTE (TE ESTOY MIRANDO TLAUNCHER)
+Instalación local - Creación y manejo de carpetas locales, nada de usar AppData y esconderse o contagiarse en .minecraft, instalación local literal.
+
+NO CREAR CARPETAS DE MAS - Eso, nada de crear carpetas que NO TENGAN que ver con el directorio interno donde esté mi launcher y en su carpeta "ShiraData", que bodrio eso que hacen otros launchers. También hacen que el sistema de carpetas interno sea un CAOS, UN INFIERNO LITERALMENTE (TE ESTOY MIRANDO TLAUNCHER)
 
 Y esto fué todo amiguitos, no me odien ❤️
 
@@ -54,6 +61,6 @@ Cosas que he pensado de la nada:
 
 Cositas que me han dicho:
 
-- Themes? Launcher personalizable en colores
+- Themes? Launcher personalizable en colores (CONFIRMADO)
 
 
