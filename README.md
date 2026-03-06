@@ -1,5 +1,5 @@
 # ChangeLog:
-Gestión de JVM independiente: Descarga automática de Java necesario (Java 8, 17, 21, etc.)
+Gestión de JVM independiente - Descarga automática de Java necesario (Java 8, 17, 21, etc.)
 
 Resolución de errores de caché
 
