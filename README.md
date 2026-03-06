@@ -1,13 +1,13 @@
 # ChangeLog:
 Gestión de JVM independiente: Descarga automática de Java necesario (Java 8, 17, 21, etc.)
 
-Resolución de errores de caché (Pendiente subir revisión)
+Resolución de errores de caché
 
-Compatibilidad Fabric (Pendiente subir revisión)
+Compatibilidad Fabric
  
-Revamp Estético (Pendiente subir revisión)
+Revamp Estético
 
-Intro de Mojang (Pendiente subir revisión)
+Intro de Mojang
 
 # - Planes para Shira Launcher -
 # 1 - Sistema de Versiones y Modloaders
