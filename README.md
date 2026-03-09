@@ -1,13 +1,12 @@
-
-> [!IMPORTANT]
-> Shira Launcher aún no ha sido lanzado oficialmente.
-
 > [!WARNING]
 > Shira Launcher está en fases de desarrollo, pueden haber características incompletas o inexistentes.
 
 <!--
 > [!TIP]
 > Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Shira Launcher aún no ha sido lanzado oficialmente.
 
 > [!NOTE]
 > Key information users need to know to achieve their goal.
