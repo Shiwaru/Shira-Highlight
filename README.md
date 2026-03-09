@@ -1,7 +1,7 @@
-<!--
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
 
+> [!NOTE]
+> Shira Launcher aún no ha sido lanzado oficialmente.
+<!--
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
