@@ -1,15 +1,16 @@
 
-> [!NOTE]
+> [!IMPORTANT]
 > Shira Launcher aún no ha sido lanzado oficialmente.
+
+> [!WARNING]
+> Shira Launcher está en fases de desarrollo, pueden haber características incompletas o inexistentes.
+
 <!--
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
-> [!IMPORTANT]
+> [!NOTE]
 > Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
@@ -19,44 +20,40 @@
 -->
 
 # ChangeLog:
-Gestión de JVM independiente - Descarga automática de Java necesario (Java 8, 17, 21, etc.)
-
-Resolución de errores de caché
-
-Compatibilidad Fabric
- 
-Revamp Estético
-
+Gestión de JVM independiente - Descarga automática de Java necesario (Java 8, 17, 21, etc.)<br>
+Resolución de errores de caché<br>
+Compatibilidad Fabric<br>
+Revamp Estético<br>
 Intro de Mojang
 
-# - Planes para Shira Launcher -
-## 1 - Sistema de Versiones y Modloaders
+# - Planes para Shira Launcher -<br>
+### 1 - Sistema de Versiones y Modloaders
 ***(EN PROGRESO)*** Detección Multiversión - Listado automático de versiones Vanilla, NeoForge, Forge y Fabric para mods.
 
 ***(DESCARTADO)*** Auto-Inyección de SkinsRich - Descarga silenciosa del mod desde CurseForge e instalación automática si se usa NeoForge 1.21.11 o 1.21.10 para una experiencia mas fluida.
 
 Gestor de Modpacks - Capacidad de interpretar archivos de CurseForge/Modrinth para que usuarios No Premium puedan instalar modpacks que solo son jugables usando CurseForge.
 
-## 2 - Rendimiento y Optimización Extrema
+### 2 - Rendimiento y Optimización Extrema
 ***(EN PROGRESO)*** ShiraMAX - Optimización de Minecraft para maximizar FPS (SIN MODLOADERS). 
 
 Soporte OpenJ9 - Implementación de lógica para ajustar los argumentos de lanzamiento específicos para OpenJ9 ya que Adoptium admite argumentos que OpenJ9 no.
 
 Soporte OpenGL Mesa - Implementación para poder usar CPU como gráfica si no hay gráficos integrados (O si son muy malos)
 
-## 3 - Seguridad y Cuentas
+### 3 - Seguridad y Cuentas
 ***(Prioridad Alta)*** Cifrado DPAPI - Uso de la API de Windows para cifrar tokens de cuentas Premium. Los datos solo podrán ser descifrados en la PC que se crearon, protegiendo contra robo de cuentas en caso de un ataque por malware o virus.
 
 Con el cifrado DPAPI viene obviamente:
 
 Dualidad de Cuentas - Soporte para Premium y No Premium con lógica separada para los parámetros de lanzamiento (evitando el uso de parámetros no premium para cuentas reales)
 
-## 4 - Experiencia de Usuario
+### 4 - Experiencia de Usuario
 ***(REEMPLAZADO)*** Skins Globales en Local - Carga automática de skins premium basadas en el Nick, incluso en mundos Offline o redes LAN. (Pendiente modificación para SkinsRich - Veré que hago)
 
 ***(EN PROGRESO)*** Sistema de Skins - Integración de API MineSkin para uso de skins globales, poder ver tu skin, ver skins reales de otros en servidores y que te vean con la skin que te ves tu mismo. Básicamente el sistema de skins de TLauncher pero pudiendo ver y que te vean con skins REALES.
 
-## 5 - Funciones que TODOS ODIAMOS en los launchers y creo que harán mejor mejorarlas porque los que jugamos Java, LAS ODIAMOS, PERO QUEDÓ CLARO QUE TODOS LAS ODIAMOS?
+### 5 - Funciones que TODOS ODIAMOS en los launchers y creo que harán mejor mejorarlas porque los que jugamos Java, LAS ODIAMOS, PERO QUEDÓ CLARO QUE TODOS LAS ODIAMOS?
 
 Auto-Cerrar Launcher: Una opción por defecto encendida para cerrar el launcher completamente después de abrir completamente Minecraft Java, sin mas, sin cosas raras ni que el launcher quede consumiendo recursos de fondo mientras el juego esté abierto, qué basura que eso pase en todos los launchers.
 
