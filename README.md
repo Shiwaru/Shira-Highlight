@@ -1,6 +1,6 @@
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
-
+[AUTOTITLE](/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
