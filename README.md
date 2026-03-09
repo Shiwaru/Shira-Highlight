@@ -1,6 +1,7 @@
+<!--
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
-[AUTOTITLE](/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
@@ -15,7 +16,7 @@
 - [x] 
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
-
+-->
 
 # ChangeLog:
 Gestión de JVM independiente - Descarga automática de Java necesario (Java 8, 17, 21, etc.)
