@@ -16,11 +16,10 @@
 - [x] 
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
--->
-
 - asd
    - asd 1
      - asd 2
+-->
 
 # ChangeLog:
 Gestión de JVM independiente - Descarga automática de Java necesario (Java 8, 17, 21, etc.)<br>
