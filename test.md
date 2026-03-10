@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/1777719263647698944/pu/img/ImENApb2inD9ZltY.jpg" width="120" style="border-radius: 16px"/>
+<!-- <img src="https://pbs.twimg.com/ext_tw_video_thumb/1777719263647698944/pu/img/ImENApb2inD9ZltY.jpg" width="120" style="border-radius: 16px"/> -->
+<img src="assets/minecraft_title.png" width="120" style="border-radius: 16px"/>
 
 # Shira Highlight
 ### *El launcher de Minecraft que debería haber existido desde siempre.*
