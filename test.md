@@ -1,125 +1,145 @@
 <div align="center">
 
 <!-- <img src="https://pbs.twimg.com/ext_tw_video_thumb/1777719263647698944/pu/img/ImENApb2inD9ZltY.jpg" width="120" style="border-radius: 16px"/> -->
-<img src="assets/minecraft_title.png" width="120" style="border-radius: 16px"/>
+<img src="assets/minecraft_title.png" width="840" style="border-radius: 16px"/>
 
-# Shira Highlight
 ### *El launcher de Minecraft que debería haber existido desde siempre.*
 
-[![Estado](https://img.shields.io/badge/estado-en%20desarrollo-blueviolet?style=for-the-badge)](#)
-[![Plataforma](https://img.shields.io/badge/plataforma-Windows-0078D4?style=for-the-badge&logo=windows)](#)
-[![Qt](https://img.shields.io/badge/Qt-6.10.2-41CD52?style=for-the-badge&logo=qt)](#)
-[![Licencia](https://img.shields.io/badge/licencia-privada-red?style=for-the-badge)](#)
+[![Estado](https://img.shields.io/badge/Alpha-v0.1.4-blueviolet?style=for-the-badge)](#)
+[![Plataforma](https://custom-icon-badges.demolab.com/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#)
+[![Derechos](https://img.shields.io/badge/Todos%20los%20derechos%20reservados-b30c00?style=for-the-badge)](#)
+<br>
+[![Pagina](https://img.shields.io/badge/Página%20Oficial-blueviolet?style=for-the-badge)](#)
+</div>
 
 > [!WARNING]
 > Shira Highlight está en desarrollo activo. Pueden existir características incompletas o inestables.
-
-</div>
 
 ---
 
 ## ¿Qué es Shira Highlight?
 
-Shira Highlight es un launcher de Minecraft No-Premium construido desde cero con **Qt 6 + WebEngine**, con una interfaz HTML/CSS/JS conectada a un backend en C++ de alto rendimiento.
+Shira Highlight es la versión temprana de mi launcher de Minecraft No-Premium/Premium, hecho con la idea de optimizar Minecraft Java al máximo.
 
-No es un fork. No es un wrapper. Es un launcher propio, hecho con bronca y con amor, porque los launchers que existen son un desastre.
+No es un fork, ni es un wrapper. Es un launcher propio hecho con bronca y amor, porque los launchers que existen son un desastre.
 
----
 
-## ✨ Características actuales
+  
+## ✨ Características actuales ✨
 
-- 🎮 **Soporte Vanilla y Fabric** — descarga e instalación automática
-- ☕ **Gestión de JVM independiente** — descarga automática de Java 8, 17 y 21 según la versión
-- 🚀 **Soporte GraalVM** — JVM alternativa de alto rendimiento para menos stutters y mejor frametime
-- 🎨 **Sistema de Skins** — integración con MineSkin API para skins globales
-- 📁 **Instalación 100% local** — sin tocar AppData, sin contaminar `.minecraft`, sin carpetas basura
-- ⚡ **Descarga multihilo** — usa todos los núcleos disponibles del CPU para descargar assets
-- 🖥️ **UI moderna** — interfaz frameless con soporte de resize, drag y DevTools integrados
-- 🎭 **Discord RPC** — estado de actividad en tiempo real
+- Compatibilidad Vanilla hasta 1.21.11 🎉
+- Compatibilidad Fabric desde 1.14 hasta 1.21.11 🎉
+- Gestor de JVM 🎉
+  - GraalVM agregado como ejecutor de JVM
+  - Selector automático de Java 8, 17 o 21 según versión de Minecraft
+- Intro personalizada de Mojang Studios 🎉
 
 ---
 
-## 🗺️ Roadmap
+## ⚠️ Características planeadas ⚠️
 
-### ✅ Completado
-- Gestión de JVM independiente
-- Compatibilidad Fabric con instalador automático
-- Sistema de skins con MineSkin
-- GraalVM como JVM alternativa
-- Intro animada
-- Soporte multiversión
+### Sistema de Versiones y Modloaders
 
-### 🔨 En progreso
-- **ShiraMAX** — optimización de argumentos JVM para máximo FPS sin modloaders
-- **Sistema de Skins completo** — que te vean con tu skin en servidores con SkinsRestorer
+- [ ] · `Detección Multiversión` [Fabric, Forge, NeoForge] (En desarrollo) <br>
+- [ ] · `Soporte Quilt`<br>
+- [ ] · `Gestor de Mods`<br>
+- [ ] · `Gestor de Modpacks`<br>
+- [ ] · `ShiraBoost`<br>
 
-### 📋 Planificado
+### ☄️ Rendimiento y Optimización ☄️
+<!-- 
+`Forge/NeoForge` > Microsoft OpenJDK<br>
+`Fabric/Quilt` > GraalVM<br>
+`Vanilla` > GraalVM  
+-->
+- [X] · `Gestión de JVM Dinámica Default`<br>
+- [X] · `Soporte GraalVM`<br>
+- [ ] · `Soporte OpenJDK`<br>
+- [ ] · `JVM Adaptativa`<br>
+- [ ] · `Soporte OpenJ9`<br>
+- [ ] · `Soporte OpenGL Mesa`<br>
+- [ ] · `Soporte Shenandoah GC`<br>
+- [ ] · `Soporte ZGC`<br>
+- [ ] · `Garbage Collector Adaptativo`<br>
+- [ ] · `Class Data Sharing` (En desarrollo)<br>
+- [ ] · `Profile Guided Optimization`<br>
+- [ ] · `Windows Timer Resolution`<br>
+- [ ] · `ShiraProfile`<br>
+- [ ] · `Sistema de Fallback Silencioso`<br>
+- [ ] · `ShiraMAX`<br>
 
-**Sistema de Versiones y Modloaders**
-- Gestor de Modpacks — soporte de archivos CurseForge/Modrinth para usuarios No Premium
+### 🔓 Seguridad y Cuentas 🔐
 
-**Rendimiento**
-- Soporte OpenJ9 — argumentos de lanzamiento específicos para OpenJ9
-- Soporte OpenGL Mesa — uso de CPU como gráfica como fallback
+  - [ ] · `Inicio de sesión de Microsoft (Premium)`<br>
+  - [ ] · `Cifrado DPAPI para cuentas de Microsoft (Premium)` - Para evitar que el launcher exponga cuentas a malware/virus: [Cifrado DPAPI](https://learn.microsoft.com/es-es/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata)<br>
+  - [ ] · `Cambio de Cuentas (Offline) In-Game`<br>
 
-**Seguridad y Cuentas**
-- Cifrado DPAPI — tokens cifrados con la API de Windows, solo descifrables en la PC de origen
-- Dualidad de Cuentas — soporte Premium y No Premium con lógica de lanzamiento separada
+### ShiraSkin 
 
-**Experiencia de usuario**
-- Auto-cerrar launcher después de que Minecraft abre completamente
-- Themes — launcher personalizable en colores *(confirmado)*
-- Instalación local total — sin AppData, sin `.minecraft` compartido
+Concepto sin terminar.
 
-### ❌ Descartado
-- Auto-Inyección de SkinsRich — reemplazado por integración directa con MineSkin
+- [ ] · `Compatibilidad con SkinsRestorer`<br> (En desarrollo)
+- [ ] · `Integración con MineSkin`<br> (En desarrollo)
+- [ ] · `Visibilidad en mundos LAN (ShiraMAX)`<br>
+
+### ShiraConnect
+
+Concepto sin terminar.
+
+- [ ] · `Sistema de invitación de mundos` (Como Minecraft Bedrock)<br>
+- [ ] · `Integración con playit.gg/ZeroTier`<br>
+- [ ] · `Compatibilidad con mundos LAN` - Usando playit.gg/ZeroTier<br>
+
+### 📌 Conceptos Internos 📌
+
+`ShiraProfile` - Detección de hardware y optimización de configuración automática<br>
+`ShiraMAX` - Agente de Java que modifica el código vanilla del juego para realizar modificaciones a los componentes de render y de video de OpenGL (Aún intentando desarrollar - Pausado)<br>
+`ShiraBoost` - Fabric Performance Pack:
+## ShiraBoost
+| Mod | Beneficio |
+|-----|-----------|
+| **Sodium** | 200-300% más FPS solo. El más impactante que existe. |
+| **Iris** | Shaders optimizados sin el costo brutal de OptiFine. |
+| **Lithium** | Optimiza lógica del cliente/servidor. 10-20% extra. |
+| **FerriteCore** | Reduce consumo de RAM hasta un 40%. |
+| **Starlight** | Motor de iluminación optimizado. |
+| **ModernFix** | Reduce tiempos de carga y consumo de memoria. |
+| **ImmediatelyFast** | Optimiza rendering de UI y entidades. |
+| **Krypton** | Optimiza el stack de red de Minecraft. |
+| **Nvidium** | Para GPUs Nvidia, rendering ultra optimizado. |
+| **SkinsRestorer** | Skins visibles en servidores offline (investigar compatibilidad cliente) |
 
 ---
 
-## 💭 Ideas en exploración
-
-- Animar el chat al aparecer nuevos mensajes
-- Cámara más lejana en F5
-- Sistema de cambio de cuentas dentro del juego
-- Paleta de colores Java igual a Bedrock
+## (DESCARTADO)
+> Inclusión de ShiraSkin (Mod) si seleccionabas NeoForge 1.21.10 o 1.21.11
 
 ---
 
-## 🛠️ Stack técnico
+## Ideas Varias
 
-| Componente | Tecnología |
-|---|---|
-| UI | HTML / CSS / JavaScript |
-| Backend | C++20 |
-| Framework | Qt 6.10.2 + WebEngine |
-| Bridge | QWebChannel |
-| HTTP | libcurl |
-| JSON | nlohmann/json |
-| Skins | MineSkin API |
-| Discord | discord-rpc |
-| Build | CMake 3.20+ / MSVC 2022 |
-
----
-
-## 📦 Compilar desde el código fuente
-
-**Requisitos:**
-- Qt 6.10.2 con WebEngine y WebChannel
-- CMake 3.20+
-- MSVC 2022
-- vcpkg con `curl:x64-windows` y `nlohmann-json:x64-windows`
-
-```bash
-git clone https://github.com/Shiwaru/Shira-Highlight.git
-cd Shira-Highlight
-# Abrir CMakeLists.txt con Visual Studio como carpeta CMake
-```
+- Animar el chat al aparecer nuevos mensajes<br>
+- Cámara más lejana en F5<br>
+- Sistema de cambio de cuentas dentro del juego<br>
+- Paleta de colores Java igual a Bedrock<br>
 
 ---
 
 <div align="center">
 
-*Hecho con bronca, con amor y con demasiado café.*
+*Hecho con bronca, amor y café.*
 *No me odien ❤️*
+
+</div>
+
+<div align="center">
+  
+## ⚡Tecnologías usadas 
+
+<img src="https://skillicons.dev/icons?i=c,cpp,qt,html,css,js,visualstudio,vscode,cmake,gradle,java" /> <br>
+  
+  ```
+  C - C++ - Qt 6.10.2 - HTML - CCS - JavaScript - VStudio - VSCode - CMake - Gradle - Java/GraalVM/OpenJDK
+  ```
 
 </div>
