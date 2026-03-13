@@ -38,13 +38,14 @@ No es un fork, ni es un wrapper. Es un launcher propio hecho con bronca y amor, 
 
 ## ⚠️ Características planeadas ⚠️
 
-### Sistema de Versiones y Modloaders
+### Sistema de Versiones, Modloaders y Utilidades
 
 - [ ] · `Detección Multiversión` [Fabric, Forge, NeoForge] (En desarrollo) <br>
 - [ ] · `Soporte Quilt`<br>
 - [ ] · `Gestor de Mods`<br>
 - [ ] · `Gestor de Modpacks`<br>
 - [ ] · `ShiraBoost`<br>
+- [X] · `Discord Rich Presence (DiscordRPC)`
 
 ### ☄️ Rendimiento y Optimización ☄️
 <!-- 
