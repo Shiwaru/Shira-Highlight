@@ -78,8 +78,8 @@ No es un fork, ni es un wrapper. Es un launcher propio hecho con bronca y amor, 
 
 Concepto sin terminar.
 
-- [ ] · `Compatibilidad con SkinsRestorer`<br> (En desarrollo)
-- [ ] · `Integración con MineSkin`<br> (En desarrollo)
+- [ ] · `Compatibilidad con SkinsRestorer` (En desarrollo)<br>
+- [ ] · `Integración con MineSkin` (En desarrollo)<br>
 - [ ] · `Visibilidad en mundos LAN (ShiraMAX)`<br>
 
 ### ShiraConnect
