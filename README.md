@@ -17,37 +17,39 @@
 
 ---
 
-## ¿Qué es Shira Highlight?
+## ¿Qué es "Shira Highlight"?
 
-Shira Highlight es la versión temprana de mi launcher de Minecraft No-Premium/Premium, hecho con la idea de optimizar Minecraft Java al máximo.
+Shira Highlight es la versión temprana de mi launcher de Minecraft No Premium/Premium, hecho con la idea de optimizar Minecraft Java al máximo.
 
-No es un fork, ni es un wrapper. Es un launcher propio hecho con bronca y amor, porque los launchers que existen son un desastre.
+No es un fork, ni es un wrapper. Es un launcher propio hecho con algo de bronca y amor, porque los launchers estandar que existen son un desastre.
 
 
   
-## ✨ Características actuales ✨
+## - Características actuales -
 
-- Compatibilidad Vanilla hasta 1.21.11 🎉
-- Compatibilidad Fabric desde 1.14 hasta 1.21.11 🎉
-- Gestor de JVM 🎉
-  - GraalVM agregado como ejecutor de JVM
-  - Selector automático de Java 8, 17 o 21 según versión de Minecraft
-- Intro personalizada de Mojang Studios 🎉
+- Compatibilidad Vanilla hasta 1.21.11 
+- Compatibilidad Fabric desde 1.19 hasta 1.21.11
+- Compatibilidad Forge (Testeando) 
+- Gestor de JVM automático
+- GraalVM agregado como ejecutor de JVM
+- Intro personalizada de Mojang Studios (REMOVIDO)
 
 ---
 
-## ⚠️ Características planeadas ⚠️
+## - Características planeadas -
 
 ### Sistema de Versiones, Modloaders y Utilidades
 
-- [ ] · `Detección Multiversión` [Fabric, Forge, NeoForge] (En desarrollo) <br>
+- [X] · `Soporte Fabric` (En desarrollo) <br>
+- [X] · `Soporte Forge` (En desarrollo) <br>
+- [ ] · `Soporte NeoForge` (En desarrollo) <br>
 - [ ] · `Soporte Quilt`<br>
 - [ ] · `Gestor de Mods`<br>
 - [ ] · `Gestor de Modpacks`<br>
 - [ ] · `ShiraBoost`<br>
-- [X] · `Discord Rich Presence (DiscordRPC)`
+- [X] · `Discord Rich Presence (DiscordRPC)` (Desarrollando)
 
-### ☄️ Rendimiento y Optimización ☄️
+### - Rendimiento y Optimización - 
 <!-- 
 `Forge/NeoForge` > Microsoft OpenJDK<br>
 `Fabric/Quilt` > GraalVM<br>
@@ -55,14 +57,14 @@ No es un fork, ni es un wrapper. Es un launcher propio hecho con bronca y amor, 
 -->
 - [X] · `Gestión de JVM Dinámica Default`<br>
 - [X] · `Soporte GraalVM`<br>
-- [ ] · `Soporte OpenJDK`<br>
+- [ ] · `Soporte Microsoft OpenJDK`<br>
 - [ ] · `JVM Adaptativa`<br>
 - [ ] · `Soporte OpenJ9`<br>
 - [ ] · `Soporte OpenGL Mesa`<br>
 - [ ] · `Soporte Shenandoah GC`<br>
 - [ ] · `Soporte ZGC`<br>
 - [ ] · `Garbage Collector Adaptativo`<br>
-- [ ] · `Class Data Sharing` (En desarrollo)<br>
+- [ ] · `Class Data Sharing` <br>
 - [ ] · `Profile Guided Optimization`<br>
 - [ ] · `Windows Timer Resolution`<br>
 - [ ] · `ShiraProfile`<br>
@@ -71,17 +73,18 @@ No es un fork, ni es un wrapper. Es un launcher propio hecho con bronca y amor, 
 
 ### 🔓 Seguridad y Cuentas 🔐
 
-  - [ ] · `Inicio de sesión de Microsoft (Premium)`<br>
-  - [ ] · `Cifrado DPAPI para cuentas de Microsoft (Premium)` - Para evitar que el launcher exponga cuentas a malware/virus: [Cifrado DPAPI](https://learn.microsoft.com/es-es/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata)<br>
-  - [ ] · `Cambio de Cuentas (Offline) In-Game`<br>
+- [ ] · `Apartado de Cuentas Offline + Premium`
+- [ ] · `Inicio de sesión de Microsoft (Premium)`<br>
+- [ ] · `Cifrado DPAPI para cuentas de Microsoft (Premium)` - Para evitar que el launcher exponga cuentas a malware/virus: [Cifrado DPAPI](https://learn.microsoft.com/es-es/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata)<br>
+- [ ] · `Cambio de Cuentas (Offline) In-Game`<br>
 
-### ShiraSkin 
+### ShiraSkin - (DESCARTADO)
 
 Concepto sin terminar.
 
-- [ ] · `Compatibilidad con SkinsRestorer` (En desarrollo)<br>
-- [ ] · `Integración con MineSkin` (En desarrollo)<br>
-- [ ] · `Visibilidad en mundos LAN (ShiraMAX)`<br>
+- [ ] · `Compatibilidad con SkinsRestorer` (DESCARTADO) <br>
+- [ ] · `Integración con MineSkin` (DESCARTADO)<br>
+- [ ] · `Visibilidad en mundos LAN (ShiraMAX)` (DESCARTADO)<br>
 
 ### ShiraConnect
 
@@ -99,16 +102,16 @@ Concepto sin terminar.
 ## ShiraBoost
 | Mod | Beneficio |
 |-----|-----------|
-| **Sodium** | 200-300% más FPS solo. El más impactante que existe. |
-| **Iris** | Shaders optimizados sin el costo brutal de OptiFine. |
-| **Lithium** | Optimiza lógica del cliente/servidor. 10-20% extra. |
-| **FerriteCore** | Reduce consumo de RAM hasta un 40%. |
-| **Starlight** | Motor de iluminación optimizado. |
-| **ModernFix** | Reduce tiempos de carga y consumo de memoria. |
-| **ImmediatelyFast** | Optimiza rendering de UI y entidades. |
-| **Krypton** | Optimiza el stack de red de Minecraft. |
-| **Nvidium** | Para GPUs Nvidia, rendering ultra optimizado. |
-| **SkinsRestorer** | Skins visibles en servidores offline (investigar compatibilidad cliente) |
+| **Sodium**          | El mejor que existe de su categoría.              |
+| **Iris**            | Shaders optimizados sin el costo feo de OptiFine. |
+| **Lithium**         | Optimiza la lógica del cliente/servidor.          |
+| **FerriteCore**     | Reduce bastante el consumo de RAM.                |
+| **Starlight**       | Motor de iluminación optimizado. (Discontinuado)  |
+| **ModernFix**       | Reduce tiempos de carga y consumo de memoria.     |
+| **ImmediatelyFast** | Optimiza rendering de UI y entidades.             |
+| **Krypton**         | Optimiza el stack de red de Minecraft.            |
+| **Nvidium**         | Para GPUs Nvidia, rendering ultra optimizado.     |
+| **SkinsRestorer**   | Skins visibles en servidores offline.             |
 
 ---
 
