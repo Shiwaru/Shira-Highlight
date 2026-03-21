@@ -31,7 +31,7 @@ No es un fork, ni es un wrapper. Es un launcher propio hecho con algo de bronca 
 - Compatibilidad Fabric desde 1.19 hasta 1.21.11
 - Compatibilidad Forge (Testeando) 
 - Gestor de JVM automático
-- GraalVM agregado como ejecutor de JVM
+- GraalVM agregado como compilador de JVM
 - Intro personalizada de Mojang Studios (REMOVIDO)
 
 ---
