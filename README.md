@@ -17,6 +17,10 @@
 
 ---
 
+# YA DISPONIBLE EN MICROSOFT STORE!!
+Instálalo aquí!
+><img href="https://apps.microsoft.com/detail/9nqdqx221gn6?hl=es-ES&gl=UY" src="https://raw.githubusercontent.com/Shiwaru/Shira-Highlight/refs/heads/main/assets/GetItFromMicrosoft.png"><
+
 ## ¿Qué es "Shira Highlight"?
 
 Shira Highlight es la versión temprana de mi launcher de Minecraft No Premium/Premium, hecho con la idea de optimizar Minecraft Java al máximo.
