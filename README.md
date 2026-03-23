@@ -18,8 +18,8 @@
 ---
 
 # YA DISPONIBLE EN MICROSOFT STORE!!
-Instálalo aquí!
-><img href="https://apps.microsoft.com/detail/9nqdqx221gn6?hl=es-ES&gl=UY" src="https://raw.githubusercontent.com/Shiwaru/Shira-Highlight/refs/heads/main/assets/GetItFromMicrosoft.png"><
+
+<a href="https://apps.microsoft.com/detail/9nqdqx221gn6?hl=es-ES&gl=UY"><img height="80px"  src="https://raw.githubusercontent.com/Shiwaru/Shira-Highlight/refs/heads/main/assets/GetItFromMicrosoft.png"></a>
 
 ## ¿Qué es "Shira Highlight"?
 
