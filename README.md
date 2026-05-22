@@ -10,6 +10,8 @@
 [![Derechos](https://img.shields.io/badge/Todos%20los%20derechos%20reservados-b30c00?style=for-the-badge)](https://github.com/Shiwaru/Shira-Highlight/tree/main?tab=License-1-ov-file)
 <br>
 [![Pagina](https://img.shields.io/badge/Página%20Oficial-blueviolet?style=for-the-badge)](https://shiwaru.github.io/Shira/)
+
+<a href="https://apps.microsoft.com/detail/9nqdqx221gn6?hl=es-ES&gl=UY"><img height="80px"  src="https://raw.githubusercontent.com/Shiwaru/Shira-Highlight/refs/heads/main/assets/GetItFromMicrosoft.png"></a>
 </div>
 
 > [!WARNING]
@@ -17,15 +19,12 @@
 
 ---
 
-# YA DISPONIBLE EN MICROSOFT STORE!!
-
-<a href="https://apps.microsoft.com/detail/9nqdqx221gn6?hl=es-ES&gl=UY"><img height="80px"  src="https://raw.githubusercontent.com/Shiwaru/Shira-Highlight/refs/heads/main/assets/GetItFromMicrosoft.png"></a>
-
+ 
 ## ¿Qué es "Shira Highlight"?
 
-Shira Highlight es la versión temprana de mi launcher de Minecraft No Premium/Premium, hecho con la idea de optimizar Minecraft Java al máximo.
+Shira Highlight es la versión temprana de mi launcher de Minecraft No Premium/Premium, hecho con la idea de optimizar Minecraft Java al máximo
 
-No es un fork, ni es un wrapper. Es un launcher propio hecho con algo de bronca y amor, porque los launchers estandar que existen son un desastre.
+Hecho con amor, porque los launchers estandar que existen son un asco
 
 
   
@@ -41,16 +40,19 @@ No es un fork, ni es un wrapper. Es un launcher propio hecho con algo de bronca 
 
 ## - Características planeadas -
 
-### Clientes agregados
+### Integraciones
 
-- [] `Lunar Client` (En Desarrollo)
+- [ ] `Lunar Client` (En Desarrollo)
+- [ ] `Feather Client`<br>
+- [ ] `LabyMod 4.4` <br>
+- [ ] `Spotify nativo` <br>
 
 ### Sistema de Versiones, Modloaders y Utilidades
 
-- [X] · `Soporte Fabric` (En desarrollo) <br>
-- [X] · `Soporte Forge` <br>
+- [X] · `Soporte Fabric` (Con bugs)<br>
+- [X] · `Soporte Forge`<br>
 - [X] · `Discord Rich Presence (DiscordRPC)`
-- [ ] · `Soporte NeoForge` (En desarrollo) <br>
+- [ ] · `Soporte NeoForge` (En desarrollo)<br>
 - [ ] · `Soporte Quilt`<br>
 - [ ] · `Gestor de Mods`<br>
 - [ ] · `Gestor de Modpacks`<br>
