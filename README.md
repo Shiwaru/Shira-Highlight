@@ -31,27 +31,30 @@ No es un fork, ni es un wrapper. Es un launcher propio hecho con algo de bronca 
   
 ## - Características actuales -
 
-- Compatibilidad Vanilla hasta 1.21.11 
-- Compatibilidad Fabric desde 1.19 hasta 1.21.11
-- Compatibilidad Forge (Testeando) 
+- Compatibilidad Vanilla hasta 26.1.2 
+- Compatibilidad Fabric desde 1.19 - 1.21.11
+- Compatibilidad Forge 26.1 - 1.18
 - Gestor de JVM automático
-- GraalVM agregado como compilador de JVM
-- Intro personalizada de Mojang Studios (REMOVIDO)
-
+- Compilador GraalVM 
+- DiscordRPC integrado
 ---
 
 ## - Características planeadas -
 
+### Clientes agregados
+
+- [] `Lunar Client` (En Desarrollo)
+
 ### Sistema de Versiones, Modloaders y Utilidades
 
 - [X] · `Soporte Fabric` (En desarrollo) <br>
-- [X] · `Soporte Forge` (En desarrollo) <br>
+- [X] · `Soporte Forge` <br>
+- [X] · `Discord Rich Presence (DiscordRPC)`
 - [ ] · `Soporte NeoForge` (En desarrollo) <br>
 - [ ] · `Soporte Quilt`<br>
 - [ ] · `Gestor de Mods`<br>
 - [ ] · `Gestor de Modpacks`<br>
 - [ ] · `ShiraBoost`<br>
-- [X] · `Discord Rich Presence (DiscordRPC)` (Desarrollando)
 
 ### - Rendimiento y Optimización - 
 <!-- 
@@ -121,7 +124,7 @@ Concepto sin terminar.
 
 ## (DESCARTADO)
 > Inclusión de ShiraSkin (Mod) si seleccionabas NeoForge 1.21.10 o 1.21.11
-
+> Intro de Mojang Studios al inicio (Retirado/Removido)
 ---
 
 ## Ideas Varias
