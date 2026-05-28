@@ -31,7 +31,7 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 ## - Características actuales -
 
 - Compatibilidad Vanilla hasta 26.1.2 
-- Compatibilidad Fabric desde 1.19 - 1.21.11
+- Compatibilidad Fabric desde 1.14 - 1.21.11
 - Compatibilidad Forge 26.1 - 1.18
 - Gestor de JVM automático
 - Compilador GraalVM 
@@ -42,7 +42,7 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 
 ### Integraciones
 
-- [ ] `Lunar Client` (En Desarrollo)
+- [X] `Lunar Client` (Premium)
 - [ ] `Feather Client`<br>
 - [ ] `LabyMod 4.4` <br>
 - [ ] `Spotify nativo` <br>
