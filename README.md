@@ -80,11 +80,11 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 - [ ] · `Sistema de Fallback Silencioso`<br>
 - [ ] · `ShiraMAX`<br>
 
-### 🔓 Seguridad y Cuentas 🔐
+### Seguridad y Cuentas 
 
-- [ ] · `Apartado de Cuentas Offline + Premium`
-- [ ] · `Inicio de sesión de Microsoft (Premium)`<br>
-- [ ] · `Cifrado DPAPI para cuentas de Microsoft (Premium)` - Para evitar que el launcher exponga cuentas a malware/virus: [Cifrado DPAPI](https://learn.microsoft.com/es-es/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata)<br>
+- [X] · `Apartado de Cuentas Offline + Premium`
+- [X] · `Inicio de sesión de Microsoft (Premium)`<br>
+- [X] · `Cifrado DPAPI para cuentas de Microsoft (Premium)` - Para evitar que el launcher exponga cuentas a malware/virus: [Cifrado DPAPI](https://learn.microsoft.com/es-es/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata)<br>
 - [ ] · `Cambio de Cuentas (Offline) In-Game`<br>
 
 ### ShiraSkin - (DESCARTADO)
@@ -103,14 +103,14 @@ Concepto sin terminar.
 - [ ] · `Integración con playit.gg/ZeroTier`<br>
 - [ ] · `Compatibilidad con mundos LAN` - Usando playit.gg/ZeroTier<br>
 
-### 📌 Conceptos Internos 📌
+### Conceptos Internos
 
 `ShiraProfile` - Detección de hardware y optimización de configuración automática<br>
 `ShiraMAX` - Agente de Java que modifica el código vanilla del juego para realizar modificaciones a los componentes de render y de video de OpenGL (Aún intentando desarrollar - Pausado)<br>
 `ShiraBoost` - Fabric Performance Pack:
 ## ShiraBoost
-| Mod | Beneficio |
-|-----|-----------|
+|         Mod         | Beneficio | 
+|---------------------|-----------|
 | **Sodium**          | El mejor que existe de su categoría.              |
 | **Iris**            | Shaders optimizados sin el costo feo de OptiFine. |
 | **Lithium**         | Optimiza la lógica del cliente/servidor.          |
@@ -140,14 +140,13 @@ Concepto sin terminar.
 
 <div align="center">
 
-*Hecho con bronca, amor y café.*
-*No me odien ❤️*
+*Hecho con bronca, amor y café. ❤️*
 
 </div>
 
 <div align="center">
   
-## ⚡Tecnologías usadas 
+## Tecnologías usadas 
 
 <img src="https://skillicons.dev/icons?i=c,cpp,qt,html,css,js,visualstudio,vscode,cmake,gradle,java" /> <br>
   
