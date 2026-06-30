@@ -45,6 +45,7 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 - [X] `Lunar Client` (Premium)
 - [ ] `Feather Client`<br>
 - [ ] `LabyMod 4.4` <br>
+- [ ] `Meteor Client` <br>
 - [ ] `Spotify nativo` <br>
 
 ### Sistema de Versiones, Modloaders y Utilidades
