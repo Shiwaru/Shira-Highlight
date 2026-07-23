@@ -31,7 +31,7 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 ## - Características actuales -
 
 - Compatibilidad Vanilla 26.2 - 1.7.10  
-- Compatibilidad Fabric Completa
+- Compatibilidad Fabric (Completa)
 - Compatibilidad Forge 26.2 - 1.18
 - Gestor de JVM automático
 - Compilador GraalVM
