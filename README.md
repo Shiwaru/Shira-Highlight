@@ -3,9 +3,9 @@
 <!-- <img src="https://pbs.twimg.com/ext_tw_video_thumb/1777719263647698944/pu/img/ImENApb2inD9ZltY.jpg" width="120" style="border-radius: 16px"/> -->
 <img href="https://shiwaru.github.io/Shira/" src="assets/minecraft_title.png" width="840" style="border-radius: 16px"/>
  
-### *El launcher de Minecraft que debería haber existido desde siempre.*<br> (En desarrollo temprano)
+### **El launcher de Minecraft que debería haber existido desde siempre.**<br> (En desarrollo temprano)
 
-[![Estado](https://img.shields.io/badge/Alpha-v0.1.7-blueviolet?style=for-the-badge)](https://github.com/Shiwaru/Shira-Highlight/releases)
+[![Estado](https://img.shields.io/badge/Alpha-v0.1.71-blueviolet?style=for-the-badge)](https://github.com/Shiwaru/Shira-Highlight/releases)
 [![Plataforma](https://custom-icon-badges.demolab.com/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#)
 [![Derechos](https://img.shields.io/badge/Todos%20los%20derechos%20reservados-b30c00?style=for-the-badge)](https://github.com/Shiwaru/Shira-Highlight/tree/main?tab=License-1-ov-file)
 <br>
@@ -30,11 +30,11 @@ Hecho con amor, porque los launchers estandar que existen son un asco
   
 ## - Características actuales -
 
-- Compatibilidad Vanilla hasta 26.1.2 
-- Compatibilidad Fabric desde 1.14 - 1.21.11
-- Compatibilidad Forge 26.1 - 1.18
+- Compatibilidad Vanilla 26.2 - 1.7.10  
+- Compatibilidad Fabric Completa
+- Compatibilidad Forge 26.2 - 1.18
 - Gestor de JVM automático
-- Compilador GraalVM 
+- Compilador GraalVM
 - DiscordRPC integrado
 ---
 
@@ -68,13 +68,13 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 - [X] · `Gestión de JVM Dinámica Default`<br>
 - [X] · `Soporte GraalVM`<br>
 - [ ] · `Soporte Microsoft OpenJDK`<br>
-- [ ] · `JVM Adaptativa`<br>
 - [ ] · `Soporte OpenJ9`<br>
 - [ ] · `Soporte OpenGL Mesa`<br>
+- [ ] · `JVM Adaptativa`<br>
 - [ ] · `Soporte Shenandoah GC`<br>
 - [ ] · `Soporte ZGC`<br>
 - [ ] · `Garbage Collector Adaptativo`<br>
-- [ ] · `Class Data Sharing` <br>
+- [ ] · `Class Data Sharing`<br>
 - [ ] · `Profile Guided Optimization`<br>
 - [ ] · `Windows Timer Resolution`<br>
 - [ ] · `ShiraProfile`<br>
@@ -86,7 +86,6 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 - [X] · `Apartado de Cuentas Offline + Premium`
 - [X] · `Inicio de sesión de Microsoft (Premium)`<br>
 - [X] · `Cifrado DPAPI para cuentas de Microsoft (Premium)` - Para evitar que el launcher exponga cuentas a malware/virus: [Cifrado DPAPI](https://learn.microsoft.com/es-es/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata)<br>
-- [ ] · `Cambio de Cuentas (Offline) In-Game`<br>
 
 ### ShiraSkin - (DESCARTADO)
 
@@ -112,36 +111,29 @@ Concepto sin terminar.
 ## ShiraBoost
 |         Mod         | Beneficio | 
 |---------------------|-----------|
-| **Sodium**          | El mejor que existe de su categoría.              |
-| **Iris**            | Shaders optimizados sin el costo feo de OptiFine. |
-| **Lithium**         | Optimiza la lógica del cliente/servidor.          |
-| **FerriteCore**     | Reduce bastante el consumo de RAM.                |
-| **Starlight**       | Motor de iluminación optimizado. (Discontinuado)  |
-| **ModernFix**       | Reduce tiempos de carga y consumo de memoria.     |
-| **ImmediatelyFast** | Optimiza rendering de UI y entidades.             |
-| **Krypton**         | Optimiza el stack de red de Minecraft.            |
-| **Nvidium**         | Para GPUs Nvidia, rendering ultra optimizado.     |
-| **SkinsRestorer**   | Skins visibles en servidores offline.             |
+| **Sodium**          | El mejor que existe de su categoría.               |
+| **Oculus**          | Fork de Iris Shaders, mejor y mas optimizado.      |
+| **Lithium**         | Optimiza la lógica del cliente/servidor.           |
+| **FerriteCore**     | Reduce bastante el consumo de RAM.                 |
+| **ModernFix**       | Reduce tiempos de carga y consumo de memoria.      |
+| **ImmediatelyFast** | Optimiza rendering de UI y entidades.              |
+| **Krypton**         | Optimiza el stack de red de Minecraft.             |
+| **Nvidium**         | Para GPUs Nvidia, rendering ultra optimizado.      |
+| **SkinRestorer**    | Skins visibles en servidores offline. (Descartado) |
+| **Starlight**       | Optimiza el motor de iluminación.  (Discontinuado) |
+| **Embeddium**       | Alternativa a Sodium.              (Discontinuado) |
 
 ---
 
 ## (DESCARTADO)
 > Inclusión de ShiraSkin (Mod) si seleccionabas NeoForge 1.21.10 o 1.21.11
 > Intro de Mojang Studios al inicio (Retirado/Removido)
----
-
-## Ideas Varias
-
-- Animar el chat al aparecer nuevos mensajes<br>
-- Cámara más lejana en F5<br>
-- Sistema de cambio de cuentas dentro del juego<br>
-- Paleta de colores Java igual a Bedrock<br>
-
+> Cambio de Cuentas (Offline) In-Game
 ---
 
 <div align="center">
 
-*Hecho con bronca, amor y café. ❤️*
+*Hecho con amor y café. ❤️*
 
 </div>
 
