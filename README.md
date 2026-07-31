@@ -5,9 +5,7 @@
  
 ### **El launcher de Minecraft que debería haber existido desde siempre.**<br> (En desarrollo temprano)
 
-[![Estado](https://img.shields.io/badge/Alpha-v0.1.71-blueviolet?style=for-the-badge)](https://github.com/Shiwaru/Shira-Highlight/releases)
-[![Plataforma](https://custom-icon-badges.demolab.com/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#)
-[![Derechos](https://img.shields.io/badge/Todos%20los%20derechos%20reservados-b30c00?style=for-the-badge)](https://github.com/Shiwaru/Shira-Highlight/tree/main?tab=License-1-ov-file)
+ 
 <br>
 [![Pagina](https://img.shields.io/badge/Página%20Oficial-blueviolet?style=for-the-badge)](https://shiwaru.github.io/Shira/)
 
@@ -126,9 +124,9 @@ Concepto sin terminar.
 ---
 
 ## (DESCARTADO)
-> Inclusión de ShiraSkin (Mod) si seleccionabas NeoForge 1.21.10 o 1.21.11
-> Intro de Mojang Studios al inicio (Retirado/Removido)
-> Cambio de Cuentas (Offline) In-Game
+> Inclusión de ShiraSkin (Mod) si seleccionabas NeoForge 1.21.10 o 1.21.11 <br>
+> Intro de Mojang Studios al inicio (Retirado/Removido) <br>
+> Cambio de Cuentas (Offline) In-Game <br>
 ---
 
 <div align="center">
@@ -153,7 +151,7 @@ Concepto sin terminar.
 Todos Los Derechos Reservados<br>
 All Rights Reserved
 
-Copyright © Shiwaru - Shira-Highlight 
+Copyright © Shiwaru - Shira Highlight 
 
 > You're under no obligation to choose a license. However, without a license, the default copyright laws apply, meaning that you retain all rights to your source code and no one may reproduce, distribute, or create derivative works from your work.
 > https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
