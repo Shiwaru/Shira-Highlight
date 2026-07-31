@@ -5,10 +5,10 @@
  
 ### **El launcher de Minecraft que debería haber existido desde siempre.**<br> (En desarrollo temprano)
 
-[![Estado](https://img.shields.io/badge/Alpha-v0.1.71-blueviolet?style=for-the-badge)](https://github.com/Shiwaru/Shira-Highlight/releases)
 [![Plataforma](https://custom-icon-badges.demolab.com/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#)
 [![Derechos](https://img.shields.io/badge/Todos%20los%20derechos%20reservados-b30c00?style=for-the-badge)](https://github.com/Shiwaru/Shira-Highlight/tree/main?tab=License-1-ov-file)
 <br>
+[![Estado](https://img.shields.io/badge/Alpha-v0.1.71-blueviolet?style=for-the-badge)](https://github.com/Shiwaru/Shira-Highlight/releases)
 [![Pagina](https://img.shields.io/badge/Página%20Oficial-blueviolet?style=for-the-badge)](https://shiwaru.github.io/Shira/)
 
 <a href="https://apps.microsoft.com/detail/9nqdqx221gn6?hl=es-ES&gl=UY"><img height="80px"  src="https://raw.githubusercontent.com/Shiwaru/Shira-Highlight/refs/heads/main/assets/GetItFromMicrosoft.png"></a>
