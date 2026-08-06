@@ -86,14 +86,6 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 - [X] · `Inicio de sesión de Microsoft (Premium)`<br>
 - [X] · `Cifrado DPAPI para cuentas de Microsoft (Premium)` - Para evitar que el launcher exponga cuentas a malware/virus: [Cifrado DPAPI](https://learn.microsoft.com/es-es/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata)<br>
 
-### ShiraSkin - (DESCARTADO)
-
-Concepto sin terminar.
-
-- [ ] · `Compatibilidad con SkinsRestorer` (DESCARTADO) <br>
-- [ ] · `Integración con MineSkin` (DESCARTADO)<br>
-- [ ] · `Visibilidad en mundos LAN (ShiraMAX)` (DESCARTADO)<br>
-
 ### ShiraConnect
 
 Concepto sin terminar.
