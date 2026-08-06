@@ -50,7 +50,7 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 
 ### Sistema de Versiones, Modloaders y Utilidades
 
-- [X] · `Soporte Fabric` (Con bugs)<br>
+- [X] · `Soporte Fabric`<br>
 - [X] · `Soporte Forge`<br>
 - [X] · `Discord Rich Presence (DiscordRPC)`
 - [ ] · `Soporte NeoForge` (En desarrollo)<br>
