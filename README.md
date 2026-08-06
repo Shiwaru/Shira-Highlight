@@ -33,7 +33,7 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 - Compatibilidad Vanilla 26.2 - 1.7.10  
 - Compatibilidad Fabric (Completa)
 - Compatibilidad Forge (Completa)
-- Gestor de JVM automático
+- Gestor de versiones Java automático
 - Compilador GraalVM
 - DiscordRPC integrado
 ---
