@@ -74,7 +74,6 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 - [ ] · `Soporte Shenandoah GC`<br>
 - [ ] · `Soporte ZGC`<br>
 - [ ] · `Garbage Collector Adaptativo`<br>
-- [ ] · `Class Data Sharing`<br>
 - [ ] · `Profile Guided Optimization`<br>
 - [ ] · `Windows Timer Resolution`<br>
 - [ ] · `ShiraProfile`<br>
@@ -129,6 +128,7 @@ Concepto sin terminar.
 > Inclusión de ShiraSkin (Mod) si seleccionabas NeoForge 1.21.10 o 1.21.11 <br>
 > Intro de Mojang Studios al inicio (Retirado/Removido) <br>
 > Cambio de Cuentas (Offline) In-Game <br>
+> Class Data Sharing <br>
 ---
 
 <div align="center">
