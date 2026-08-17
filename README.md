@@ -31,10 +31,10 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 ## - Características actuales -
 
 - Compatibilidad Vanilla 26.2 - 1.7.10  
-- Compatibilidad Fabric (Completa)
-- Compatibilidad Forge (Completa)
-- Compatibilidad NeoForge (BETA)
-- Compatibilidad OptiFine (BETA) 
+- Compatibilidad Fabric (Parcial)
+- Compatibilidad Forge (Parcial)
+- Compatibilidad NeoForge (Completa)
+- Compatibilidad OptiFine (Completa)
 - Gestor de versiones Java automático
 - Compilador GraalVM
 - DiscordRPC integrado
