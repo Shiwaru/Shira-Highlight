@@ -52,11 +52,15 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 
 ### Sistema de Versiones, Modloaders y Utilidades
 
+- [X] · `Discord Rich Presence (DiscordRPC)`
 - [X] · `Soporte Fabric`<br>
 - [X] · `Soporte Forge`<br>
-- [X] · `Discord Rich Presence (DiscordRPC)`
-- [X] · `Soporte NeoForge` (En desarrollo)<br>
+- [X] · `Soporte NeoForge`<br>
 - [ ] · `Soporte Quilt`<br>
+- [ ] · `Tab de Mods`<br>
+- [ ] · `Tab de Modpacks`<br>
+- [ ] · `Tab de Shaders`<br>
+- [ ] · `Tab de Texturepacks`<br>
 - [ ] · `Gestor de Mods`<br>
 - [ ] · `Gestor de Modpacks`<br>
 - [ ] · `ShiraBoost`<br>
@@ -127,7 +131,7 @@ Concepto sin terminar.
 
 <div align="center">
 
-*Hecho con amor y café. ❤️*
+*Hecho con amor y café ❤️*
 
 </div>
 
@@ -138,7 +142,7 @@ Concepto sin terminar.
 <img src="https://skillicons.dev/icons?i=c,cpp,qt,html,css,js,visualstudio,vscode,cmake,gradle,java" /> <br>
   
   ```
-  C - C++ - Qt 6.10.2 - HTML - CCS - JavaScript - VStudio - VSCode - CMake - Gradle - Java/GraalVM/OpenJDK
+  C - C++ - Qt 6.10.2 - HTML - CCS - JavaScript - VStudio - VSCode - CMake - Gradle - Java/GraalVM
   ```
 
 </div>
