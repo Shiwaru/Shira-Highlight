@@ -16,8 +16,8 @@
 
 > [!WARNING]
 > Shira Highlight está en desarrollo activo. Pueden existir características incompletas o experimentales.
-> 
-> Se ha logrado mitigar casi todos los bugs viejos, terminando así la fase "pre-alpha" de Shira.
+>
+> Se han logrado mitigar todos los bugs viejos, dando fin así a la fase "pre-alpha" de Shira.
 
 ---
 
@@ -32,14 +32,16 @@ Hecho con amor, porque los launchers estandar que existen son un asco
   
 ## - Características actuales -
 
-- Compatibilidad Vanilla 26.2 - 1.7.10  
-- Compatibilidad Fabric (Parcial)
-- Compatibilidad Forge (Parcial)
+- Compatibilidad Vanilla 26.2 - 1.8.9  
+- Compatibilidad Fabric (Completa)
+- Compatibilidad Forge (Completa)
 - Compatibilidad NeoForge (Completa)
 - Compatibilidad OptiFine (Completa)
 - Gestor de versiones Java automático
 - Compilador GraalVM
 - DiscordRPC integrado
+- Tab de mods integrado
+- Tab de modpacks integrado
 ---
 
 ## - Características planeadas -
@@ -58,14 +60,15 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 - [X] · `Soporte Fabric`<br>
 - [X] · `Soporte Forge`<br>
 - [X] · `Soporte NeoForge`<br>
-- [ ] · `Soporte Quilt`<br>
-- [ ] · `Tab de Mods`<br>
-- [ ] · `Tab de Modpacks`<br>
+- [X] · `Tab de Mods`<br>
+- [X] · `Tab de Modpacks`<br>
 - [ ] · `Tab de Shaders`<br>
 - [ ] · `Tab de Texturepacks`<br>
 - [ ] · `Gestor de Mods`<br>
-- [ ] · `Gestor de Modpacks`<br>
+- [ ] · `Detector de mods incompatibles (Versión o Modloader)`<br>
+- [ ] · `Detector de dependencias faltantes (Mods/Modpacks)`<br>
 - [ ] · `ShiraBoost`<br>
+- [ ] · `Soporte Quilt`<br>
 
 ### - Rendimiento y Optimización - 
 <!-- 
@@ -73,7 +76,7 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 `Fabric/Quilt` > GraalVM<br>
 `Vanilla` > GraalVM  
 -->
-- [X] · `Gestión de JVM Dinámica Default`<br>
+- [X] · `Gestión de JVM Dinámica`<br>
 - [X] · `Soporte GraalVM`<br>
 - [ ] · `Soporte Microsoft OpenJDK`<br>
 - [ ] · `Soporte OpenJ9`<br>
