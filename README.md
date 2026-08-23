@@ -3,7 +3,7 @@
 <!-- <img src="https://pbs.twimg.com/ext_tw_video_thumb/1777719263647698944/pu/img/ImENApb2inD9ZltY.jpg" width="120" style="border-radius: 16px"/> -->
 <img href="https://shiwaru.github.io/Shira/" src="assets/minecraft_title.png" width="840" style="border-radius: 16px"/>
  
-### **El launcher de Minecraft que debería haber existido desde siempre.**<br> (En desarrollo temprano)
+### **El launcher de Minecraft que debería haber existido desde siempre.**<br> (En desarrollo avanzado)
 
 [![Plataforma](https://custom-icon-badges.demolab.com/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#)
 [![Derechos](https://img.shields.io/badge/Todos%20los%20derechos%20reservados-b30c00?style=for-the-badge)](https://github.com/Shiwaru/Shira-Highlight/tree/main?tab=License-1-ov-file)
@@ -15,7 +15,9 @@
 </div>
 
 > [!WARNING]
-> Shira Highlight está en desarrollo activo. Pueden existir características incompletas o inestables.
+> Shira Highlight está en desarrollo activo. Pueden existir características incompletas o experimentales.
+> 
+> Se ha logrado mitigar casi todos los bugs viejos, terminando así la fase "pre-alpha" de Shira.
 
 ---
 
