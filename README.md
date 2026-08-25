@@ -17,7 +17,7 @@
 > [!WARNING]
 > Shira Highlight está en desarrollo activo. Pueden existir características incompletas o experimentales.
 >
-> Se han logrado mitigar todos los bugs viejos, dando fin así a la fase "pre-alpha" de Shira.
+> Se ha llegado al fin de la fase pre-alpha de Shira.
 
 ---
 
