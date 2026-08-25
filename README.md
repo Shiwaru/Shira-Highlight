@@ -39,7 +39,7 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 - Compatibilidad NeoForge (Completa)
 - Compatibilidad OptiFine (Completa)
 - Gestor de versiones Java automático
-- Lanzamiento con Lunar Client (Solo Premium)
+- Lanzamiento con Lunar Client (Solo Premium) [Temporalmente deshabilitado]
 - Compilador GraalVM
 - DiscordRPC integrado
 - Tab de mods integrado
