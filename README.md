@@ -57,6 +57,7 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 - [ ] `Feather Client`<br>
 - [ ] `LabyMod 4.4` <br>
 - [ ] `Meteor Client` <br>
+- [ ] `Feather Client` <br>
 - [ ] `Spotify nativo` <br>
 
 ### Sistema de Versiones, Modloaders y Utilidades
@@ -69,11 +70,13 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 - [X] · `Tab de Modpacks`<br>
 - [ ] · `Tab de Shaders`<br>
 - [ ] · `Tab de Texturepacks`<br>
-- [ ] · `Gestor de Mods`<br>
-- [ ] · `Detector de mods incompatibles (Versión o Modloader)`<br>
-- [ ] · `Detector de dependencias faltantes (Mods/Modpacks)`<br>
+- [ ] · `Gestor de Mods [Habilitar/Deshabilitar Mods]`<br>
+- [ ] · `Detector de mods incompatibles (En Desarrollo)`<br>
+- [ ] · `Detector de dependencias faltantes [Mods/Modpacks] (En Desarrollo)`<br>
 - [ ] · `ShiraBoost`<br>
 - [ ] · `Soporte Quilt`<br>
+- [ ] · `Contador de horas y última vez de uso`<br>
+- [ ] · `Consola del juego en interfaz del Launcher`<br>
 
 ### - Rendimiento y Optimización - 
 <!-- 
