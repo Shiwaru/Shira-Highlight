@@ -32,6 +32,7 @@ Hecho con amor, porque los launchers estandar que existen son un asco
   
 ## - Características actuales -
 
+- Sistema de Cuentas Premium + No Premium
 - Compatibilidad Vanilla 26.2 - 1.8.9  
 - Compatibilidad Fabric (Completa)
 - Compatibilidad Forge (Completa)
