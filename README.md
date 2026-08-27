@@ -15,9 +15,9 @@
 </div>
 
 > [!WARNING]
-> Shira Highlight está en desarrollo activo. Pueden existir características incompletas o experimentales.
+> Shira Launcher está en desarrollo activo. Pueden existir características incompletas o experimentales.
 >
-> Se ha llegado al fin de la fase pre-alpha de Shira.
+> Se ha llegado al fin de la fase pre-alpha de Shira. (Highlight) Se comenzará a trabajar activamente en fase alpha. (Krypton)
 
 ---
 
