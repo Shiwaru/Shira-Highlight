@@ -4,7 +4,7 @@
 <img href="https://shiwaru.github.io/Shira/" src="assets/minecraft_title.png" width="840" style="border-radius: 16px"/>
  
 ### **El launcher de Minecraft que debería haber existido desde siempre.**<br> (En desarrollo avanzado)
-## **Sin telemetría, sin anuncios, no guarda datos de usuarios, no tiene virus de regalo.** 
+## **Sin telemetría, sin anuncios, no guarda datos de usuarios, sin virus de regalo.** 
 Se terminó toda esa mierda.
 
 [![Plataforma](https://custom-icon-badges.demolab.com/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#)
