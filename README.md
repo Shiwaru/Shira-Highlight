@@ -6,27 +6,27 @@
 ### **El launcher de Minecraft que debería haber existido desde siempre.**<br> (En desarrollo avanzado)
 
 [![Plataforma](https://custom-icon-badges.demolab.com/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#)
-[![Derechos](https://img.shields.io/badge/Todos%20los%20derechos%20reservados-b30c00?style=for-the-badge)](https://github.com/Shiwaru/Shira-Highlight/tree/main?tab=License-1-ov-file)
+[![Derechos](https://img.shields.io/badge/Todos%20los%20derechos%20reservados-b30c00?style=for-the-badge)](https://github.com/Shiwaru/Shira-Krypton/tree/main?tab=License-1-ov-file)
 <br>
-[![Estado](https://img.shields.io/badge/Preview-v0.1.8-blueviolet?style=for-the-badge)](https://github.com/Shiwaru/Shira-Highlight/releases)
+[![Estado](https://img.shields.io/badge/Preview-v0.1.8-blueviolet?style=for-the-badge)](https://github.com/Shiwaru/Shira-Krypton/releases)
 [![Pagina](https://img.shields.io/badge/Página%20Oficial-blueviolet?style=for-the-badge)](https://shiwaru.github.io/Shira/)
 
-<a href="https://apps.microsoft.com/detail/9nqdqx221gn6?hl=es-ES&gl=UY"><img height="80px"  src="https://raw.githubusercontent.com/Shiwaru/Shira-Highlight/refs/heads/main/assets/GetItFromMicrosoft.png"></a>
+<a href="https://apps.microsoft.com/detail/9nqdqx221gn6?hl=es-ES&gl=UY"><img height="80px"  src="https://raw.githubusercontent.com/Shiwaru/Shira-Krypton/refs/heads/main/assets/GetItFromMicrosoft.png"></a>
 </div>
 
 > [!WARNING]
 > Shira Launcher está en desarrollo activo. Pueden existir características incompletas o experimentales.
 >
-> Se ha llegado al fin de la fase pre-alpha de Shira. (Highlight) Se comenzará a trabajar activamente en fase alpha. (Krypton)
+> Se ha llegado al fin de la fase pre-alpha de Shira. (Highlight) Se está trabajando activamente en su fase alpha. (Krypton)
 
 ---
 
  
-## ¿Qué es "Shira Highlight"?
+## ¿Qué es "Shira Krypton"?
 
-Shira Highlight es la versión temprana de mi launcher de Minecraft No Premium/Premium, hecho con la idea de optimizar Minecraft Java al máximo
+Shira Krypton es la versión avanzada de mi launcher de Minecraft No Premium/Premium, hecho con la idea de optimizar Minecraft Java al máximo.
 
-Hecho con amor, porque los launchers estandar que existen son un asco
+Hecho con amor y desarrollado por una sola persona, porque los launchers estandar que existen son un asco.
 
 
   
@@ -53,7 +53,7 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 
 ### Integraciones
 
-- [X] `Lunar Client` (Premium)
+- [X] `Lunar Client` (Premium) [Temporalmente deshabilitado]
 - [ ] `Feather Client`<br>
 - [ ] `LabyMod 4.4` <br>
 - [ ] `Meteor Client` <br>
@@ -77,6 +77,7 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 - [ ] · `Soporte Quilt`<br>
 - [ ] · `Contador de horas y última vez de uso`<br>
 - [ ] · `Consola del juego en interfaz del Launcher`<br>
+- [ ] · `Crash Handler`<br>
 
 ### - Rendimiento y Optimización - 
 <!-- 
@@ -86,10 +87,10 @@ Hecho con amor, porque los launchers estandar que existen son un asco
 -->
 - [X] · `Gestión de JVM Dinámica`<br>
 - [X] · `Soporte GraalVM`<br>
+- [X] · `JVM Adaptativa`<br>
 - [ ] · `Soporte Microsoft OpenJDK`<br>
 - [ ] · `Soporte OpenJ9`<br>
 - [ ] · `Soporte OpenGL Mesa`<br>
-- [ ] · `JVM Adaptativa`<br>
 - [ ] · `Soporte Shenandoah GC`<br>
 - [ ] · `Soporte ZGC`<br>
 - [ ] · `Garbage Collector Adaptativo`<br>
@@ -164,7 +165,7 @@ Concepto sin terminar.
 Todos Los Derechos Reservados<br>
 All Rights Reserved
 
-Copyright © Shiwaru - Shira Highlight 
+Copyright © Shiwaru - Shira Launcher 
 
 > You're under no obligation to choose a license. However, without a license, the default copyright laws apply, meaning that you retain all rights to your source code and no one may reproduce, distribute, or create derivative works from your work.
 > https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
